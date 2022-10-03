@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SamkaChat/static/css/main.72e287c1.css",
+    "main.js": "/SamkaChat/static/js/main.0c7db114.js",
+    "index.html": "/SamkaChat/index.html",
+    "main.72e287c1.css.map": "/SamkaChat/static/css/main.72e287c1.css.map",
+    "main.0c7db114.js.map": "/SamkaChat/static/js/main.0c7db114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e287c1.css",
+    "static/js/main.0c7db114.js"
+  ]
+}
